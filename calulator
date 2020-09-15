@@ -5,9 +5,9 @@ def start():
     def random_problem():
         operators = {
             '+': operator.add,
-            #'-': operator.sub,
-           # "*": operator.mul,
-           # "/": operator.truediv,
+            '-': operator.sub,
+           "*": operator.mul,
+           "/": operator.truediv,
 
         }
 
